@@ -1,0 +1,16 @@
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\PikselWebSimpleAppTest.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\PikselWebSimpleAppTest.pdb
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\WebDriver.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\bin\Debug\WebDriver.xml
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\obj\Debug\PikselWebSimpleAppTest.csprojAssemblyReference.cache
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\obj\Debug\PikselWebSimpleAppTest.csproj.CoreCompileInputs.cache
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\obj\Debug\PikselWebSimpleAppTest.csproj.CopyComplete
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\obj\Debug\PikselWebSimpleAppTest.dll
+C:\VSWork\UITest\PikselWebSimpleAppTest\PikselWebSimpleAppTest\obj\Debug\PikselWebSimpleAppTest.pdb
